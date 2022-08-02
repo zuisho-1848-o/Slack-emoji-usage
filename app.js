@@ -1,5 +1,4 @@
 const { App } = require('@slack/bolt');
-// const { resolve } = require('path');
 require("dotenv").config();
 
 
@@ -159,5 +158,3 @@ app.command("/emoji", async({command, context, ack}) => {
   console.log('⚡️ Bolt app is running!');
 })();
 
-
-// https://7955-203-165-195-123.jp.ngrok.io
