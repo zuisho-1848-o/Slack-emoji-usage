@@ -5,6 +5,7 @@
 * [Bolt](https://slack.dev/bolt-js/ja-jp/tutorial/getting-started) Slack 公式の Node.js 向けの Slack App 開発用フレームワーク
 * [ngrok](https://ngrok.com/) localhost の通信を https につなげてくれるサービス。
 * dotenv （開発時に環境変数を保存できる）
+* nodemon （開発時に js ファイルを保存するとサーバーを再起動してくれる）
 
 
 # 必要scope （漏れがあるかも）
